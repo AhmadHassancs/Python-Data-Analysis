@@ -4,6 +4,7 @@ This Repo Contains Analysis of Data from Different Domains. <br/>
 2. Suicide Rate Trend Analysis<br/>
 3. Hybrid Mutual Fund Analysis<br/>
 4. WhatsApp Chat Analysis<br/>
+5. Uber Trips Analysis<br/>
 
 
 <br/>
