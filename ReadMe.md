@@ -5,7 +5,9 @@ This Repo Contains Analysis of Data from Different Domains. <br/>
 3. Hybrid Mutual Fund Analysis<br/>
 4. WhatsApp Chat Analysis<br/>
 5. Uber Trips Analysis<br/>
+6. Google Search Analysis<br/>
 
+<br/>These notebooks are from an online udemy course.<br/>
 
 <br/>
 Ahmad Hassan<br/>
