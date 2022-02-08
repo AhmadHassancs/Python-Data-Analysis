@@ -7,6 +7,8 @@ This Repo Contains Analysis of Data from Different Domains. <br/>
 5. Uber Trips Analysis<br/>
 6. Google Search Analysis<br/>
 7. Pakistan Budget Allocation Analysis<br/>
+8. Healthcare Data Analysis</br>
+9. Streaming Service Analysis</br>
 
 <br/>These notebooks are from an online udemy course.<br/>
 
